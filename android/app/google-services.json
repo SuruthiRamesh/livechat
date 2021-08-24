@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262656973199",
+    "project_id": "livevideochat-f5231",
+    "storage_bucket": "livevideochat-f5231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262656973199:android:ab5d6dfeb69b0ac47e13fa",
+        "android_client_info": {
+          "package_name": "com.example.livevideochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262656973199-fnr1ruh6elaumkr4n2b9ur2pcdb1lkfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68Kj2nNXfxx8xZzmhZzzPnqxRkgr-C68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262656973199-fnr1ruh6elaumkr4n2b9ur2pcdb1lkfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

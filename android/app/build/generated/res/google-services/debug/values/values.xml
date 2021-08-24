@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">262656973199-fnr1ruh6elaumkr4n2b9ur2pcdb1lkfv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">262656973199</string>
+    <string name="google_api_key" translatable="false">AIzaSyC68Kj2nNXfxx8xZzmhZzzPnqxRkgr-C68</string>
+    <string name="google_app_id" translatable="false">1:262656973199:android:ab5d6dfeb69b0ac47e13fa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC68Kj2nNXfxx8xZzmhZzzPnqxRkgr-C68</string>
+    <string name="google_storage_bucket" translatable="false">livevideochat-f5231.appspot.com</string>
+    <string name="project_id" translatable="false">livevideochat-f5231</string>
+</resources>
